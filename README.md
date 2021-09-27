@@ -11,7 +11,7 @@ Aplicativo para gerenciar as finanças.
 
 ### :nut_and_bolt: Tecnologias
 
-Esse projeto foi desenvolvido com a seguinte técnologias:
+Esse projeto foi desenvolvido com a seguinte técnologia:
 
 - [React][reactjs]
 
