@@ -7,7 +7,7 @@
 
 **Descrição**
 
-Aplicativo para gerenciar as finanças.
+Projeto desenvolvido durante o módulo de FrontEnd da Trybe. Consiste em um site para gerenciar as finanças.
 
 ### :nut_and_bolt: Tecnologias
 
@@ -21,10 +21,10 @@ Esse projeto foi desenvolvido com a seguinte técnologia:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/defauth98/movie-cards-library-stateful
+git clone https://github.com/defauth98/trybewallet.git
 
 # Entre no diretório
-cd movie-cards-library-stateful
+cd trybewallet
 
 # Instale as depedências
 npm install
